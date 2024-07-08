@@ -91,4 +91,6 @@ dependencies {
     implementation("com.google.accompanist:accompanist-systemuicontroller:0.31.4-beta")
 
     implementation("com.airbnb.android:lottie-compose:6.0.0")
+
+    implementation("androidx.compose.material:material-icons-extended:1.6.8")
 }
